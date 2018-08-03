@@ -1,4 +1,4 @@
-#Prime Sieve
+# Prime Sieve
 
 This repository acts as an eample on when and how to use bitarrays "in real
 life". Essentially, `sieve.c` is just an overly commented standard
